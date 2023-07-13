@@ -25,4 +25,4 @@ Student at CPS. Recreational programmer/mathematician. Plays atomic chess.
    - Codewars solutions
  - [Codewars](https://www.codewars.com/users/Camelpilot33)https://www.codewars.com/users/Camelpilot33
  - [FishTrap](https://github.com/Camelpilot33/Fishtrap) & [AtomicElo](https://github.com/Camelpilot33/AtomicElo) Program to catch cheaters in atomic chess
- - [3d engine](https://github.com/Camelpilot33/engine3d)
+ - [3d raytracing renderer made in pure HTMl/JS](https://github.com/Camelpilot33/engine3d)

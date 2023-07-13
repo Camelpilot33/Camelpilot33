@@ -2,7 +2,7 @@
 ### Profiles:
 [![Codewars](https://www.codewars.com/users/Camelpilot33/badges/large)](https://www.codewars.com/users/Camelpilot33)\
 <a href="https://discord.com/users/701829178592591952"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="30"></a><br>
-[YT](https://www.youtube.com/@camelpilot3367/featured)
+[YouTube](https://www.youtube.com/@camelpilot3367/featured)
 ### Languages I know:
  - JS
  - HTML (its a language trust me)
@@ -12,7 +12,7 @@
  - lambda calculus
  - English
 ### Projects
- - [Advent of Code solutions (js)](https://github.com/Camelpilot33/AdventOfCode)
+ - [Advent of Code solutions](https://github.com/Camelpilot33/AdventOfCode) (js) - `1` top 100
  - Collection [Here](https://github.com/Camelpilot33/Camul-Home-Page)
    - Some copies of games I've made
    - Plastic sequencing

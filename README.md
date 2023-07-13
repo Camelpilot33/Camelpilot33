@@ -9,6 +9,7 @@
  - C++
  - Python
  - C#
+ - lambda calculus
  - English
 ### Projects
  - [Advent of Code solutions (js)](https://github.com/Camelpilot33/AdventOfCode)

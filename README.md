@@ -12,7 +12,7 @@
  - lambda calculus
  - English
 ### Projects
- - [Advent of Code solutions](https://github.com/Camelpilot33/AdventOfCode) (js) - `1` top 100
+ - [Advent of Code solutions](https://github.com/Camelpilot33/AdventOfCode) (js) - lowest score yet: `44`
  - Collection [Here](https://github.com/Camelpilot33/Camul-Home-Page)
    - Some copies of games I've made
    - Plastic sequencing

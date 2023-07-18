@@ -1,6 +1,5 @@
 # Hello there!
 ### About me
- - Student at CPS
  - Recreational programmer/mathematician
  - Plays atomic chess
 ### Profiles:

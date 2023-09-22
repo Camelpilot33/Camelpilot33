@@ -1,17 +1,13 @@
 # Hello there!
-### About me
- - Recreational programmer/mathematician
- - Plays atomic chess
-### Profiles:
-[anonymouscamul@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=anonymouscamul@gmail.com&su=Subject&body=To:%20Samuel)\
-[![Codewars](https://www.codewars.com/users/Camelpilot33/badges/large)](https://www.codewars.com/users/Camelpilot33)\
-<a href="https://discord.com/users/701829178592591952"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="30"></a><br>
-[YouTube](https://www.youtube.com/@camelpilot3367/featured)\
-[Lichess](https://lichess.org/@/camul) & [Chess.com](https://www.chess.com/member/camul13)
+### Find me at:
+[Gmail: anonymouscamul@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=anonymouscamul@gmail.com&su=Subject&body=To:%20Samuel)\
+[Youtube: @Camelpilot3367](https://www.youtube.com/@camelpilot3367/featured)\
+[Lichess: @camul13](https://lichess.org/@/camul) & [Chess.com: @camul13](https://www.chess.com/member/camul13)\
+[Website: camelpilot33.github.io](https://camelpilot33.github.io/)
 ### Languages I know:
  - JS
- - HTML (its a language trust me)
- - C++
+ - HTML (it's a language trust me)
+ - Rust
  - Python
  - C#
  - lambda calculus

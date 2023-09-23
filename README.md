@@ -4,6 +4,7 @@
 [Youtube: @Camelpilot3367](https://www.youtube.com/@camelpilot3367/featured)\
 [Lichess: @camul13](https://lichess.org/@/camul) & [Chess.com: @camul13](https://www.chess.com/member/camul13)\
 [Website: camelpilot33.github.io](https://camelpilot33.github.io/)
+[Discord: @camelpilot33](https://discord.com/users/701829178592591952)
 ### Languages I know:
  - JS
  - HTML (it's a language trust me)

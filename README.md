@@ -1,4 +1,4 @@
-# Hello there!
+# Hello!
 <!--[Site](https://camelpilot33.github.io/)
 <!---
 ### Find me at:
